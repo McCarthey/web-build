@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[2],{RLry:function(n,e,r){"use strict";r.r(e),r.d(e,"default",function(){return o});var t=r("q1tI"),s=r.n(t);class o extends s.a.Component{render(){return s.a.createElement("div",null,"This is forum")}}}}]);

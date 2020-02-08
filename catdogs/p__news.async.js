@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[4],{OGr7:function(n,e,t){"use strict";t.r(e),t.d(e,"default",function(){return a});var r=t("q1tI"),s=t.n(r);class a extends s.a.Component{render(){return s.a.createElement("div",null,"This is news page")}}}}]);

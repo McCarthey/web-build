@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[2],{"8Xi9":function(n,e,t){"use strict";t.r(e),t.d(e,"default",function(){return s});var i=t("q1tI"),r=t.n(i);class s extends r.a.Component{render(){return r.a.createElement("div",null,"This is gif page")}}}}]);

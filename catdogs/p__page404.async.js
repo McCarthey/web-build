@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[4],{QItV:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),c=a("mOP9");t["default"]=(()=>{return o.a.createElement("div",null,"I am a customized 404 page go back to ",o.a.createElement(c["a"],{to:"/home"},"Home"))})}}]);

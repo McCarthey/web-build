@@ -24,16 +24,22 @@
       "static\\PDVMnA95mAN6sRR-fSDbL\\pages\\_error.js": 2,
       "static\\PDVMnA95mAN6sRR-fSDbL\\pages\\gif.js": 3,
       "static\\PDVMnA95mAN6sRR-fSDbL\\pages\\index.js": 4,
-      "static\\PDVMnA95mAN6sRR-fSDbL\\pages\\tutorial.js": 5
+      "static\\PDVMnA95mAN6sRR-fSDbL\\pages\\tutorial.js": 5,
+      "static\\IrYOU3Qkk8NLrbaGyCqNb\\pages\\_app.js": 6,
+      "static\\IrYOU3Qkk8NLrbaGyCqNb\\pages\\_document.js": 7,
+      "static\\IrYOU3Qkk8NLrbaGyCqNb\\pages\\_error.js": 8,
+      "static\\IrYOU3Qkk8NLrbaGyCqNb\\pages\\gif.js": 9,
+      "static\\IrYOU3Qkk8NLrbaGyCqNb\\pages\\index.js": 10,
+      "static\\IrYOU3Qkk8NLrbaGyCqNb\\pages\\tutorial.js": 11
     },
     "bySource": {},
     "usedIds": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5
+      10,
+      11,
+      6,
+      7,
+      8,
+      9
     ]
   }
 }
